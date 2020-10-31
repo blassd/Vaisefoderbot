@@ -6509,10 +6509,10 @@ Cosmira
 Cosmo
 Cosmos
 Costa
-Coteleski 
+Coteleski
 Cotrim
 Courtney
-Couto  
+Couto
 Craig
 Cramer
 Crasso
@@ -14703,6 +14703,7 @@ Guerreiro
 Guerta
 Guete
 Gueven
+Guga
 Gui
 Guiamina
 Guida
@@ -20543,6 +20544,7 @@ Klyvian
 Knox
 Knut
 Koch
+Kogos
 Koji
 Kojy
 Koki
@@ -25420,6 +25422,7 @@ Morine
 Morio
 Moris
 Moriza
+Moro
 Morris
 Morrison
 Mortimer
@@ -33558,7 +33561,7 @@ Venusia
 Venussa
 Venuzia
 Venzo
-Vera 
+Vera
 Vera lúcia
 Veraci
 Veracilda
