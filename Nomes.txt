@@ -9383,7 +9383,6 @@ Ednajar
 Ednajara
 Ednalda
 Ednaldo
-Ednaldo Pereira
 Ednalia
 Ednalua
 Ednalva
@@ -34709,6 +34708,7 @@ Wylliam
 Wylltek
 Wyllya
 Wylma
+Wyrm
 Wyrna
 Xaari
 Xafik
